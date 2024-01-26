@@ -1,0 +1,1 @@
+i wrote this react-native app in expo ios for the iphone 15, using the expo-image-picker

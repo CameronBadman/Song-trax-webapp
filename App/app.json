@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "SongTrax",
+    "slug": "SongTrax",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyBooiXKpJsTHnnFrX5yr1eOP46OxNLooWA"
+      },
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "This app requires access to your photo library for selecting profile pictures.",
+        "NSPhotoLibraryAddUsageDescription": "This app requires access to your photo library to save photos."
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
+
+
+
